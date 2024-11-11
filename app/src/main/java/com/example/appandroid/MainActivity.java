@@ -26,8 +26,7 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
 
-        textResultado = findViewById(R.id.textResultado);
-
+        //textResultado = findViewById(R.id.textResultado);
 
     }
 }
